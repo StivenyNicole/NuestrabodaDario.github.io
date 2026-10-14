@@ -83,7 +83,7 @@ window.INVITACION_CONFIG = {
     "idConfirmacion": "Josselyn",
     "cupos": 2,
     "invitados": [
-      "Dario Pironza",
+      "Dario Gironza",
       ""
     ]
   },
